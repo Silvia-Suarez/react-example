@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-parcialnube-staging-184802-authRole",
+      "UnauthRoleArn": "arn:aws:iam::980443341523:role/amplify-parcialnube-staging-184802-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::980443341523:role/amplify-parcialnube-staging-184802-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-parcialnube-staging-184802-deployment",
+      "UnauthRoleName": "amplify-parcialnube-staging-184802-unauthRole",
+      "StackName": "amplify-parcialnube-staging-184802",
+      "StackId": "arn:aws:cloudformation:us-east-1:980443341523:stack/amplify-parcialnube-staging-184802/93dfcab0-4b53-11ee-88f3-128a59195de3",
+      "AmplifyAppId": "d1m5kywzcjuxze"
+    },
+    "categories": {
+      "auth": {
+        "parcialnube": {}
+      }
+    }
+  }
+}
